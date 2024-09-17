@@ -1,0 +1,57 @@
+
+
+.admintitle{
+    background-color: #343a40;
+    color: #fff;
+    height: 65px;
+    line-height: 50px;
+}
+
+
+.dashboard{
+    background-color:#ebeef1;
+    color:#000;
+    width:100%;
+    height: 100%;
+    
+}
+
+.nav_menu {
+    color: #fff;
+    font-size: 20px;
+    padding-right: 30px;
+    text-decoration: none;
+    padding-top: 20px; 
+}
+.nav_menu:hover {
+    color: #fff;
+    font-size: 20px;
+    padding-right: 30px;
+    text-decoration: none;
+    padding-top: 20px;
+}
+.nav_container {
+    display: flex;
+    justify-content: space-between;
+}
+body {
+    background-color:#fff;
+}
+
+.success {
+    color:green; 
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.error {
+    color:red;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
